@@ -2,3 +2,4 @@
 
 a=ghp_MockTokenClassicAlphanumericChar36
 b=wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY
+github_token = "ghp_0aFU7xM9LSy3750sl1is4OMstNKN7l2G0eTe"
